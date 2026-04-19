@@ -1,0 +1,72 @@
+# =========================
+# Python & Virtual Environment
+# =========================
+venv/
+env/
+ENV/
+.venv/
+*.pyc
+__pycache__/
+*.egg-info/
+/dist/
+/build/
+*.egg
+*.log
+*.pot
+
+# =========================
+# Node & Frontend
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+dist/
+build/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# IDE & Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# OS Files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# =========================
+# Project Specific
+# =========================
+*.notes
+*.help
+.DS_Store
