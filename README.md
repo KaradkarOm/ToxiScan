@@ -4,13 +4,7 @@ A real-time web application to detect toxic and harmful messages using NLP.
 
 ## ⚡ Quick Start
 
-### Option 1: Single Command
-```bash
-chmod +x run-dev.sh
-./run-dev.sh
-```
-
-### Option 2: Two Terminals
+### Option 1: Two Terminals
 
 **Terminal 1 - Backend:**
 ```bash
